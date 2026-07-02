@@ -58,21 +58,19 @@ Drop a folder. Ask questions. Get answers. SovLens runs entirely on your machine
 
 ---
 
-## GitHub Stats
+## What I Care About
 
-<div align="center">
+- **Data sovereignty** — software you host, on infrastructure you control
+- - **Privacy by default** — no tracking, no PII egress, no surprises
+  - - **EU compliance done right** — VAT, GDPR, and invoicing that actually holds up
+    - - **Open source that lasts** — no crippled cores, no bait-and-switch licensing
+     
+      - ---
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=asifwanders&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifwanders&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+      <div align="center">
 
-</div>
+      ### Let's build something that respects the people using it.
 
----
+      Reach me at **muhammadasif1508@gmail.com** or right here on GitHub.
 
-<div align="center">
-
-### Let's build something that respects the people using it.
-
-Reach me at **muhammadasif1508@gmail.com** or right here on GitHub.
-
-</div>
+      </div>
