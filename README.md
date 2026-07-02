@@ -61,16 +61,15 @@ Drop a folder. Ask questions. Get answers. SovLens runs entirely on your machine
 ## What I Care About
 
 - **Data sovereignty** — software you host, on infrastructure you control
-- - **Privacy by default** — no tracking, no PII egress, no surprises
-  - - **EU compliance done right** — VAT, GDPR, and invoicing that actually holds up
-    - - **Open source that lasts** — no crippled cores, no bait-and-switch licensing
-     
-      - ---
+- **Privacy by default** — no tracking, no PII egress, no surprises
+- **EU compliance done right** — VAT, GDPR, and invoicing that actually holds up
+- **Open source that lasts** — no crippled cores, no bait-and-switch licensing
 
-      <div align="center">
+---
+<div align="center">
 
-      ### Let's build something that respects the people using it.
+### Let's build something that respects the people using it.
 
-      Reach me at **muhammadasif1508@gmail.com** or right here on GitHub.
+Reach me at **muhammadasif1508@gmail.com** or right here on GitHub.
 
-      </div>
+</div>
